@@ -2,4 +2,8 @@
 /3DMatch
 /3DMatchBench
 /results
+/fastmac_data
 __pycache__/
+*.so
+*.txt
+*.ply
