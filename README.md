@@ -1,4 +1,4 @@
-Репозиторий с курсовой работой по теме "Сопоставление облаков точек для автономной навигации робота".
+# Репозиторий с курсовой работой по теме "Сопоставление облаков точек для автономной навигации робота".
 
 В ходе работы были изучены статьи, посвящённые классическим методам регистрации облаков точек, а также актуальным методам, таким как MAC, FastMAC. В проекте ставилась задача реализовать алгоритм, по точности и времени работы превосходящий начальное решение - ICP с глобальным приближением RANSAC.
 
@@ -6,6 +6,6 @@
 
 Код финального алгоритма находится в файле `pipeline/fastmac.ipynb`
 
-Ссылка на отчёт - https://drive.google.com/file/d/1UUu2855VFyxKt1HkDsZURc-zVlqshdpW/view?usp=sharing
+[Ссылка на отчёт](https://drive.google.com/file/d/1UUu2855VFyxKt1HkDsZURc-zVlqshdpW/view?usp=sharing)
 
-Ссылка на презентацию - https://drive.google.com/file/d/1ItjowF84zZsEu-lLXTYUtmmGIgNHX8qS/view?usp=sharing
+[Ссылка на презентацию](https://drive.google.com/file/d/1ItjowF84zZsEu-lLXTYUtmmGIgNHX8qS/view?usp=sharing)
